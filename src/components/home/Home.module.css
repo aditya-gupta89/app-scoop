@@ -1,0 +1,9 @@
+.container{
+    background-image: url('../../image/birthday.jpg');
+    width: 100vw;
+    height: 89vh;
+    margin:0px;
+    padding: 0px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}

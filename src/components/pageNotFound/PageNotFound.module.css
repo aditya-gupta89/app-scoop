@@ -1,0 +1,10 @@
+.page{
+    width: 100%;
+    /* border: 2px solid black; */
+    height: 10rem;
+    background-color: white;
+    color: black;
+    font-size: 4rem;
+    text-align: center;
+    padding: 2rem;
+  }
